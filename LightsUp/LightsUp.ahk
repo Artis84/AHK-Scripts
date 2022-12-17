@@ -7,11 +7,13 @@ SetWorkingDir, %A_ScriptDir%
 
 #InstallKeybdHook
 loop{
-    if(A_Hour == 18 || A_Hour == 08){
-        BlockInput, On
+    if(A_Hour == 18){
         ; $::
+        BlockInput, On
         if WinExist("ahk_class NotifyIconOverflowWindow")
             WinClose
+        Send, #d
+        Sleep, 1000
         Send, #b
         Loop
         {
@@ -36,7 +38,6 @@ loop{
         }
         MouseMove, %synapseX%, %synapseY%
         Click
-        Send, #d
         Loop
         {
             ImageSearch, profilX, profilY, 0, 0, 2560, 1440, dropdown.png
@@ -46,25 +47,25 @@ loop{
         Click, %profilX%, %profilY%
         Click, %profilX%, %profilY%
         Click, %profilX%, %profilY%
-        if (A_Hour >= 18 || A_Hour < 08 ){
-            Send, {Down}
-            Send, {Enter}
-            Loop
-            {
-                ImageSearch, profilX, profilY, 0, 0, 2560, 1440, lightsOn.png
-                if ErrorLevel = 0
-                    break ; image was found break loop and continue
-            }
-        } Else{
-            Send, {Up}
-            Send, {Enter}
-            Loop
-            {
-                ImageSearch, profilX, profilY, 0, 0, 2560, 1440, lightsOff.png
-                if ErrorLevel = 0
-                    break ; image was found break loop and continue
-            }
+        ; if (A_Hour >= 18 || A_Hour < 08 ){
+        Send, {Down}
+        Send, {Enter}
+        Loop
+        {
+            ImageSearch, profilX, profilY, 0, 0, 2560, 1440, lightsOn.png
+            if ErrorLevel = 0
+                break ; image was found break loop and continue
         }
+        ; } Else{
+        ;     Send, {Up}
+        ;     Send, {Enter}
+        ;     Loop
+        ;     {
+        ;         ImageSearch, profilX, profilY, 0, 0, 2560, 1440, lightsOff.png
+        ;         if ErrorLevel = 0
+        ;             break ; image was found break loop and continue
+        ;     }
+        ; }
         WinClose, Razer Synapse
         BlockInput, Off
         return
