@@ -1,0 +1,269 @@
+Murder
+Theft
+Assault
+Robbery
+Kidnapping
+Burglary
+Homicide
+Fraud
+Larceny
+Bribery
+Vandalism
+Gambling
+Embezzlement
+Extortion
+Conspiracy
+Forgery
+Racketeering
+Arson
+Counterfeiting
+Identity Theft
+Drug Trafficking
+Weapons Violations
+Money Laundering
+Computer Crimes
+Tax Evasion
+Carjacking
+Cybercrime
+Human Trafficking
+Hate Crimes
+Prostitution
+Domestic Violence
+White Collar Crime
+Perjury
+Terrorism
+Hacking
+Drug Possession
+Solicitation
+Gang Violence
+Shoplifting
+Pimping
+Obstruction Of Justice
+Receiving Stolen Goods
+Illegal Gambling
+Stalking
+Mail Fraud
+Credit Card Fraud
+Public Intoxication
+Public Disorderly Conduct
+Indecent Exposure
+Child Abuse
+Resisting Arrest
+Harassment
+Possession Of Stolen Property
+Interference With Custody
+Animal Cruelty
+Obstruction Of Police
+False Imprisonment
+Unlawful Possession Of Firearm
+Unlawful Possession Of Controlled Substance
+Illegal Possession Of A Weapon
+Unlawful Discharge Of A Firearm
+Manslaughter
+Forcible Rape
+Accessory To A Crime
+Public Indecency
+Unlawful Entry
+Peeping Tom
+Grand Theft Auto
+Pandering
+Attempted Murder
+Bribery Of A Public Official
+Unlawful Possession Of Explosives
+Illegal Dumping
+Trespassing
+Assault With A Deadly Weapon
+Contempt Of Court
+Unlawful Manufacture Of Narcotics
+False Advertising
+Robbery With A Weapon
+Receiving Stolen Property
+Unlawful Possession Of A Firearm
+Disorderly Conduct
+Rioting
+Insurance Fraud
+Drug Dealing
+Unlawful Use Of A Weapon
+Identity Fraud
+Possession Of An Illegal Drug
+Interfering With A Police Officer
+Unlawful Sale Of Alcohol
+Public Intimidation
+Possession Of Burglary Tools
+Unlawful Possession Of A Controlled Substance
+Unlawful Possession Of A Firearm By A Felon
+Rape
+Organized Crime
+Computer Crime
+Vehicular Homicide
+DUI
+Sexual Assault
+Abuse of Power
+Juvenile Crime
+Hate Crime
+Bank Robbery
+Bribery of Officials
+Tax Fraud
+Insider Trading
+Trafficking in Stolen Property
+Possession of Illegal Weapons
+Bribery of Judges
+Obstruction of Justice
+Bribery of Public Officials
+Smuggling
+Sabotage
+Bribery of Police Officers
+Bribery of Witnesses
+Bribery of Jury
+Criminal Negligence
+Extortion by Threats
+Extortion by Force
+Treason
+Terrorism Financing
+Mayhem
+Bribery of Foreign Officials
+Espionage
+Bribery of Elected Officials
+Counterfeiting of Money
+Blackmail
+Bribery of Business Executives
+Kidnapping for Ransom
+Credit Card Skimming
+Trafficking in Drugs
+Tax Avoidance
+Illegal Arms Trafficking
+Bribery in Procurement
+Human Smuggling
+Illegal Mining
+Piracy
+Illegal Importation
+Illegal Export
+Bribery of Government Officials
+Smuggling of Artwork
+Insider Dealing
+Obstruction of Investigations
+Bribery in Business
+Forging Documents
+Harboring a Fugitive
+Bribery in Sports
+Bribery in Education
+Bribery in Banking
+Possession of Illegal Drugs
+Corrupt Practices
+Cyberstalking
+Bribery of Journalists
+Wire Fraud
+Murder 
+Manslaughter 
+Rape 
+Robbery 
+Assault 
+Burglary 
+Kidnapping 
+Fraud 
+Theft 
+Arson 
+Bribery 
+Money Laundering 
+Terrorism 
+Extortion 
+Embezzlement 
+Shoplifting 
+Drug Trafficking 
+Smuggling 
+Forgery 
+Criminal Conspiracy 
+Perjury 
+Obstruction of Justice 
+Computer Crime 
+White Collar Crime 
+Identity Theft 
+Hate Crime 
+Counterfeiting 
+Vandalism 
+Prostitution 
+Carjacking 
+Gambling 
+Trafficking 
+Tax Evasion 
+Bank Robbery 
+Cybercrime 
+Hate Crimes 
+Drug Crimes 
+Weapons Charges 
+DUI/DWI 
+Felony 
+Grand Larceny 
+Homicide 
+Piracy 
+Possession of Illegal Drugs 
+Public Intoxication 
+Reckless Driving 
+Solicitation 
+Stalking 
+Trespassing 
+Unlawful Possession of a Firearm 
+White Collar Crimes 
+Wire Fraud 
+Conspiracy 
+Bribery of Public Officials 
+Hostage Taking 
+Illegal Gambling 
+Offenses Against Public Order 
+Organized Crime 
+Possession of Stolen Property 
+Prostitution and Related Offenses 
+Receiving Stolen Property 
+Trafficking in Persons 
+Vehicle Theft 
+Drug Possession 
+Juvenile Delinquency 
+Environmental Crimes 
+Human Trafficking 
+Intellectual Property Crimes 
+Public Corruption 
+Tax Fraud 
+Solicitation of Prostitution 
+Unlawful Possession of a Controlled Substance 
+Animal Cruelty 
+Child Abuse 
+Domestic Violence 
+Elder Abuse 
+Harassment 
+Sexual Abuse 
+Unlawful Discharge of a Firearm 
+Bribery of a Witness 
+Computer Hacking 
+Cyber-bullying 
+Elder Financial Exploitation 
+False Imprisonment 
+Impersonation 
+Invasion of Privacy 
+Misuse of Government Funds 
+Obstruction of Law Enforcement 
+Possession of an Unlicensed Firearm 
+Possession of Forged Documents 
+Racketeering 
+Unlawful Possession of Explosives 
+Unlawful Use of a Computer 
+Offenses Against Public Administration 
+Possession of Illicit Drugs 
+Bank Fraud 
+Bribery of Law Enforcement 
+Corrupt Practices in Government 
+Forgery of Official Documents 
+Pimping 
+Possession of Prohibited Weapons 
+Public Disobedience 
+Smuggling of Illegal Aliens 
+Trafficking of Firearms 
+Unlawful Use of a Telephone 
+Illegal Possession of Firearms 
+Perjury of Oath 
+Promoting Prostitution 
+Receiving Bribes 
+Resisting Arrest 
+Unlawful Assembly 
+Unlawful Detention 
+Unlawful Possession of a Weapon 
+Unlawful Possession of a Firearm by a Convicted Felon

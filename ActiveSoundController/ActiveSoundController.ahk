@@ -13,7 +13,7 @@ Volume_Mute:: ; Mutekey hotkey - toggle mute state of active window
 Return
 SC119::
     WinGet, activeApp, ProcessName, A ;get the active app procees name and store it to the %activeApp% variable
-    volume = 20
+    volume = 5
     RunWait, cmd.exe /k mode con: cols=20 lines=20 && color 64 && svcl.exe /Stdout /GetPercent %activeApp% && svcl.exe /ChangeVolume %activeApp% %volume% && exit
 ; RunWait, cmd.exe /k svcl.exe /Stdout /GetPercent %activeApp%
 Return
