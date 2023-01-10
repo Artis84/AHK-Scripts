@@ -11,4 +11,6 @@ r::
     ; if A_Hour = 02
     ;     MsgBox The current 24-hour time is %TimeString%.
     ; Click, 2 20
-    Send, {LWinDown}
+    Loop,
+        Click
+; Send, {LWinDown}
