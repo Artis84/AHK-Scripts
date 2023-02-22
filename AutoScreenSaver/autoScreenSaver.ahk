@@ -23,3 +23,5 @@ Loop
         break ; image was found break loop and continue
 }
 Click, %previewX%, %previewY%
+Sleep, 100
+WinClose, ahk_exe rundll32.exe
