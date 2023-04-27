@@ -6,7 +6,7 @@ SetWorkingDir, %A_ScriptDir%
 
 Home::
     FileSelectFile, SelectedFile, 3, , Keywords file, Text Documents (*.txt)
-    Click, 1196,126
+    Click, 1002,95
     Loop read, %SelectedFile%
     {
         ; Sleep, 1
@@ -32,6 +32,8 @@ Home::
         Loop
         {
             ImageSearch,,, 0, 0, 2560, 1440, video.png
+            if ErrorLevel = 0
+                break ; image was found break loop and continue^
             ImageSearch,,, 0, 0, 2560, 1440, short.png
             if ErrorLevel = 0
                 break ; image was found break loop and continue^
@@ -40,6 +42,7 @@ Home::
             ;     break ; image was found break loop and continue^
 
         }
+        Sleep, 1000
         Send, {Numpad1}
         Sleep, 1000
         Send, {Numpad3}
@@ -51,7 +54,7 @@ Home::
         Send, {Numpad9}
         ImageSearch,likeX,likeY, 0, 0, 2560, 1440, like.png
         Click, %likeX%, %likeY%
-        SendInput, {Click 1196,126}
+        SendInput, {Click, 1002,95}
         SendInput, ^{a}
         SendInput, {Delete}
         ; SendInput, !{left}

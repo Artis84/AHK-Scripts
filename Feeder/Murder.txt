@@ -1,0 +1,115 @@
+Murder
+Theft
+Assault
+Robbery
+Drug Trafficking
+Kidnapping
+Bribery
+Fraud
+Counterfeiting
+Extortion
+Arson
+Money Laundering
+Burglary
+Embezzlement
+Vandalism
+Human Trafficking
+Gun Trafficking
+Carjacking
+Hacking
+Forgery
+Domestic Violence
+White Collar Crime
+Cybercrime
+Tax Evasion
+Identity Theft
+Perjury
+Obstruction of Justice
+Bribery of a Public Official
+Computer Fraud
+Conspiracy
+Trafficking in Stolen Property
+Credit Card Fraud
+Bribery of a Witness
+Bank Fraud
+Solicitation of Prostitution
+Illegal Gambling
+Bribery of a Jury
+Possession of Stolen Property
+False Imprisonment
+Cyberstalking
+Unlawful Possession of a Weapon
+Bribery of a Lawyer
+Terrorism
+Illegal Possession of Drugs
+Unauthorized Use of a Computer
+Theft of Trade Secrets
+Cruelty to Animals
+Drug Possession
+Blackmail
+Pyromania
+Hate Crimes
+Bribery of a Government Agent
+Forgery of Documents
+Conspiracy to Commit a Crime
+Art Theft
+Bribery of a Judge
+Possession of Illegal Weapons
+Criminal Mischief
+Computer Trespass
+Tax Fraud
+Accessory to a Crime
+Insider Trading
+Obstruction of an Investigation
+Shoplifting
+Mail Fraud
+Illegal Dumping
+Possession of a Controlled Substance
+Altering or Forging Documents
+Domestic Terrorism
+Drug Distribution
+Sexual Assault
+Smuggling
+Bribery of a Police Officer
+Gang Activity
+Unlawful Disclosure of Trade Secrets
+Harassment
+Bribery of a Banker
+Illegal Gambling Operations
+Illegal Possession of Fireworks
+Unlawful Use of a Computer
+Offer of a Bribe
+Obstruction of Evidence
+Possession of Unregistered Firearms
+Copyright Infringement
+Violation of Probation
+Disruption of a Public Service
+Unauthorized Access to a Computer
+Violation of Parole
+Possession of a Forged Document
+Stalking
+Bribery in Commercial Transactions
+Unauthorized Use of a Credit Card
+Possession of a Prohibited Substance
+Unlawful Use of a Telephone
+Theft of Government Property
+Cyber Harassment
+Failure to Pay Child Support
+Illegal Importation of Goods
+Manslaughter
+Rape
+Money laundering
+Trespassing
+Pimping
+Prostitution
+Weapons Trafficking
+Computer Hacking
+Bank Robbery
+Drug Sales
+Sabotage
+Inciting a Riot
+Homicide
+Public Intoxication
+Drug Cultivation
+Unlawful Possession of a Firearm
+Solicitation
